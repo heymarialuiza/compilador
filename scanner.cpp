@@ -30,7 +30,6 @@ Scanner::Scanner(string input/*, SymbolTable* table*/)
     //Ela é utilizada apenas para verificar se o 
     //preenchimento de input foi feito corretamente.
     cout << this->input;
-
 }
 
 int
